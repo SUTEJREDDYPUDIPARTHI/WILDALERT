@@ -47,4 +47,4 @@ Upon detection of specific animals, the system:
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [Roboflow for Dataset Hosting](https://roboflow.com/)
 - [Streamlit Community](https://streamlit.io/)
-- [OpenAI](https://openai.com/) for AI integration support
+- [OpenAI](https://openai.com/) for help and support
