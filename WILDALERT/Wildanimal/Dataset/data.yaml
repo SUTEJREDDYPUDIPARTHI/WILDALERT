@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 24
+names: ['bear', 'bison', 'cat', 'chimpanzee', 'cow', 'deer', 'dog', 'donkey', 'elephant', 'fox', 'goat', 'gorilla', 'horse', 'hyena', 'leopard', 'lion', 'panda', 'pig', 'reindeer', 'rhinoceros', 'sheep', 'tiger', 'wolf', 'zebra']
+
+roboflow:
+  workspace: jivesh-kalra-qlq2g
+  project: wildvision
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jivesh-kalra-qlq2g/wildvision/dataset/5
